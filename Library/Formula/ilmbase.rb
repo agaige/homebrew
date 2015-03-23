@@ -2,9 +2,9 @@ require 'formula'
 
 class Ilmbase < Formula
   homepage 'http://www.openexr.com/'
-  url 'http://download.savannah.gnu.org/releases/openexr/ilmbase-2.1.0.tar.gz'
-  mirror 'http://download-mirror.savannah.gnu.org/releases/openexr/ilmbase-2.1.0.tar.gz'
-  sha1 '306d76e7a2ac619c2f641f54b59dd95576525192'
+  url 'http://download.savannah.gnu.org/releases/openexr/ilmbase-2.2.0.tar.gz'
+  mirror 'http://download-mirror.savannah.gnu.org/releases/openexr/ilmbase-2.2.0.tar.gz'
+  sha1 '70d864bc704f276942cb10479f2cb98646ce6ad4'
 
   bottle do
     cellar :any

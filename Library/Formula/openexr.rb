@@ -2,8 +2,8 @@ require 'formula'
 
 class Openexr < Formula
   homepage 'http://www.openexr.com/'
-  url 'http://download.savannah.gnu.org/releases/openexr/openexr-2.1.0.tar.gz'
-  sha1 '4a3db5ea527856145844556e0ee349f45ed4cbc7'
+  url 'http://download.savannah.gnu.org/releases/openexr/openexr-2.2.0.tar.gz'
+  sha1 'd09a68c4443b7a12a0484c073adaef348b44cb92'
 
   bottle do
     cellar :any
